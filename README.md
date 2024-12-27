@@ -68,9 +68,11 @@ Random Forest (RF) Model
 **Support Vector Machine (SVM) Model**
 
 **Overview:** Trained an SVM model with an RBF kernel to classify energy consumption sectors.
+
 **Training:** Optimized hyperparameters like regularization and kernel type.
+
 **Cross-validation:** Also applied 5-fold cross-validation for performance evaluation.
-****
+
 **Model Comparison**
 
 Evaluation Metrics: Compared the Random Forest and SVM models based on:
