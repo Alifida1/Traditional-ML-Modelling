@@ -89,3 +89,6 @@ F1 Score
 Random Forest showed better overall stability and performance, especially in terms of accuracy and recall.
 SVM performed well with precision but had slightly lower performance on recall but overall SVM outperformed with higher accuracy.
 The models were evaluated using cross-validation, ensuring robust performance metrics.
+
+## License
+This project is licensed under the "All Rights Reserved" policy. No part of this repository may be used, reproduced, or distributed without explicit permission from the author.
